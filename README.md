@@ -3,7 +3,9 @@
 ## Overview
 Sub7a is a Flutter application designed to help users track their Istighfar (seeking forgiveness from Allah) count and achieve their daily goals. The app allows users to set a target count for Istighfar and tracks their progress towards that goal. It also displays the total count of Istighfar repetitions and the total number of sessions.
 
+<p align="center">
 <img src="Sub7a_App.gif" width="200" height="400" />
+</p>
 
 ## Features
 - Set a target count for Istighfar repetitions.
