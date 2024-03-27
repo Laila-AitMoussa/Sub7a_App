@@ -15,7 +15,7 @@ Sub7a is a Flutter application designed to help users track their Istighfar (see
 ## Installation
 1. **Clone the Repository:** Clone this repository to your local machine using:
    ```
-   git clone https://github.com/your_username/Sub7a_Flutter_App.git
+   git clone https://github.com/Laila-AitMoussa/Sub7a_App.git
    ```
    
 2. **Navigate to Project Directory:** Move into the project directory:
